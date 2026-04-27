@@ -1,0 +1,10 @@
+# No external dependencies required! 
+# The pipeline uses only Python 3.10+ standard library.
+#
+# Python 3.10+ is required for:
+#   - type hints with | union syntax
+#   - match/case (not used but supported)
+#   - dataclass improvements
+#
+# Optional: If you want JIRA auto-creation in the future, uncomment below:
+# requests>=2.31.0
